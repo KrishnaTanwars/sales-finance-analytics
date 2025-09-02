@@ -8,8 +8,8 @@ The analysis highlights **customer performance, market trends, and financial hea
 ## 📌 Sales Report
 
 - **Objectives:**
-  1. Develop a detailed _[Customer Performance Report](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_.  
-  2. Compare and analyze _[Market Performance vs Sales Targets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf)_.  
+  1. Develop a detailed _[Customer Performance Report](https://github.com/KrishnaTanwars/sales-finance-analytics/blob/main/Customer%20Performance%20Report.pdf)_.  
+  2. Compare and analyze _[Market Performance vs Sales Targets](https://github.com/KrishnaTanwars/sales-finance-analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_.  
 
 - **Purpose of Sales Analytics:**  
   Enable businesses to **track sales performance**, measure growth against targets, and optimize customer relationships.
@@ -29,8 +29,8 @@ The analysis highlights **customer performance, market trends, and financial hea
 ## 📌 Finance Report
 
 - **Objectives:**
-  1. Build Profit & Loss (P&L) statements by _[Fiscal Year](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ and _[Month](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf)_.  
-  2. Generate P&L statements by _[Markets](https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf)_.  
+  1. Build Profit & Loss (P&L) statements by _[Fiscal Year](https://github.com/KrishnaTanwars/sales-finance-analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ and _[Month](http://github.com/KrishnaTanwars/sales-finance-analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_.  
+  2. Generate P&L statements by _[Markets](https://github.com/KrishnaTanwars/sales-finance-analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_.  
 
 - **Purpose of Finance Analytics:**  
   Assess organizational **financial performance**, support data-driven decisions, and communicate effectively with stakeholders.
